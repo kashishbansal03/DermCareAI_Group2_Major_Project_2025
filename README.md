@@ -1,0 +1,1 @@
+# DermCareAI_Group2_Major_Project_2025
