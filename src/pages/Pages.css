@@ -1,0 +1,61 @@
+/* Navigation style */
+.nav-color{
+    color: rgba(0,0,0,0.5) !important;
+    text-decoration: none !important;
+    margin-top: -7px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.active{
+    color: rgba(0,0,0,0.9) !important;
+}
+.nav-color:hover{
+    color: rgba(0,0,0,0.75) !important;
+}
+/* Add Patient */
+.add-patient-buttons{
+    display: flex;
+    justify-content: space-around;
+}
+.add-patient-buttons:last-child{
+    margin-right: 100px;
+}
+
+/* All Patient */
+.all-patient-background{
+    width: 100%;
+    display: flex;
+    margin: 2px;
+    justify-content: space-between;
+    background-color:rgb(191, 200, 212);
+}
+.all-patient-details{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.all-patient-Buttons{
+    display: flex;
+}
+.all-patient-Button {
+    background-color: rgb(20, 93, 153);
+    color: rgb(255, 255, 255);
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    padding: 5px 40px;
+    font-size: 15px;
+    font-weight: 500;
+    margin-left: auto;
+    float: right;
+  }
+
+  /* View Patient */
+  .view-patient-row{
+    font-size: 0.9em;
+    display: flex;
+    margin-left: 5px;
+    margin-right: 0;
+    margin-bottom: 40px;
+    color: rgb(255, 255, 255, 0.8);
+  }
