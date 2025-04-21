@@ -11,7 +11,7 @@
   "dependencies": {
     "ajv": "^6.5.2",
     "bootstrap": "^4.6.2",
-    "framer-motion": "^12.5.0",
+    "framer-motion": "^4.1.17",
     "history": "^4.7.2",
     "jest-junit-reporter": "1.1.0",
     "jquery": "^3.3.1",
